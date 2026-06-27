@@ -202,7 +202,7 @@ common:
   type: Portal
 - url: https://community.arubanetworks.com/
   name: Airheads Community
-  type: Forum
+  type: Forums
 - url: https://www.arubanetworks.com/support-services/
   name: Aruba Support
   type: Support
@@ -238,52 +238,52 @@ common:
   type: YouTube
 - url: https://github.com/aruba/pycentral
   name: pycentral — Aruba Central Python SDK
-  type: SDK
+  type: SDKs
 - url: https://github.com/aruba/pyaoscx
   name: pyaoscx — AOS-CX Python SDK
-  type: SDK
+  type: SDKs
 - url: https://github.com/aruba/pyclearpass
   name: pyclearpass — ClearPass Python SDK
-  type: SDK
+  type: SDKs
 - url: https://github.com/aruba/pyedgeconnect
   name: pyedgeconnect — EdgeConnect / Orchestrator Python SDK
-  type: SDK
+  type: SDKs
 - url: https://github.com/aruba/pyafc
   name: pyafc — Fabric Composer Python SDK
-  type: SDK
+  type: SDKs
 - url: https://github.com/aruba/pyhpeuxi
   name: pyhpeuxi — UXI Python SDK
-  type: SDK
+  type: SDKs
 - url: https://github.com/aruba/pyhpesse
   name: pyhpesse — HPE SSE Python SDK
-  type: SDK
+  type: SDKs
 - url: https://github.com/aruba/pyarubaimc
   name: pyarubaimc — Aruba IMC Python SDK
-  type: SDK
+  type: SDKs
 - url: https://github.com/aruba/aoscxgo
   name: aoscxgo — AOS-CX Go SDK
-  type: SDK
+  type: SDKs
 - url: https://github.com/aruba/aruba-central-ansible-collection
   name: aruba-central-ansible-collection
-  type: Tool
+  type: Tools
 - url: https://github.com/aruba/aoscx-ansible-collection
   name: aoscx-ansible-collection
-  type: Tool
+  type: Tools
 - url: https://github.com/aruba/aos-switch-ansible-collection
   name: aos-switch-ansible-collection
-  type: Tool
+  type: Tools
 - url: https://github.com/aruba/hpeanfc-ansible-collection
   name: hpeanfc-ansible-collection — Fabric Composer
-  type: Tool
+  type: Tools
 - url: https://github.com/aruba/terraform-provider-aoscx
   name: terraform-provider-aoscx
-  type: Tool
+  type: Tools
 - url: https://github.com/aruba/central-python-workflows
   name: central-python-workflows
   type: CodeExamples
 - url: https://github.com/aruba/central-automation-studio
   name: Central Automation Studio
-  type: Tool
+  type: Tools
 - url: https://github.com/aruba/nae-scripts
   name: AOS-CX Network Analytics Engine scripts
   type: CodeExamples
@@ -295,7 +295,7 @@ common:
   type: CodeExamples
 - url: https://github.com/aruba/clearpass-csv2api
   name: clearpass-csv2api CLI
-  type: Tool
+  type: Tools
 - url: https://github.com/aruba/sdwan-edgeconnect-performance-monitoring
   name: EdgeConnect performance monitoring scripts
   type: CodeExamples
