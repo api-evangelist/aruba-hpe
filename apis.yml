@@ -25,6 +25,12 @@ apis:
   tags:
   - Networking
   - Streaming
+  - Event
+  - Real-Time
+  - Monitoring
+  tags_raw:
+  - Networking
+  - Streaming
   - Events
   - Real Time
   - Monitoring
@@ -39,6 +45,11 @@ apis:
   name: HPE Aruba Networking Central Webhooks
   tags:
   - Networking
+  - Webhook
+  - Event
+  - Alerts
+  tags_raw:
+  - Networking
   - Webhooks
   - Events
   - Alerts
@@ -52,6 +63,12 @@ apis:
 - aid: aruba-hpe:aos-cx-rest-api
   name: AOS-CX REST API
   tags:
+  - Networking
+  - Switching
+  - Data-Center
+  - Configuration
+  - Routing
+  tags_raw:
   - Networking
   - Switching
   - Data Center
@@ -102,6 +119,11 @@ apis:
 - aid: aruba-hpe:fabric-composer-api
   name: HPE Aruba Networking Fabric Composer API
   tags:
+  - Networking
+  - Data-Center
+  - Fabric
+  - Automation
+  tags_raw:
   - Networking
   - Data Center
   - Fabric
@@ -160,6 +182,22 @@ apis:
     Series database APIs.
 name: HPE Aruba Networking
 tags:
+- Networking
+- Switching
+- Wi-Fi
+- SD-WAN
+- NAC
+- Network Access Control
+- Cloud Networking
+- AIOps
+- Data-Center
+- Campus
+- Branch
+- Edge
+- SSE
+- SASE
+- HPE
+tags_raw:
 - Networking
 - Switching
 - Wi-Fi
