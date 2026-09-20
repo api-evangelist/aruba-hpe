@@ -1,5 +1,8 @@
 aid: aruba-hpe
 url: https://raw.githubusercontent.com/api-evangelist/aruba-hpe/refs/heads/main/apis.yml
+x-docs-platform: readme
+x-docs-platform-confidence: high
+x-docs-platform-checked: 2026-09-19
 apis:
 - aid: aruba-hpe:aruba-central-rest-api
   name: HPE Aruba Networking Central REST API
